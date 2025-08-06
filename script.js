@@ -83,16 +83,17 @@ document.addEventListener('DOMContentLoaded', () => {
         `,
         'projects': `
             <ul>
-                <li><a href="https://github.com/talhabektas/greenlegacy" target="_blank"><span class="title">YesilMiras <i class="fas fa-link"></i></span></a>: Fractional real estate investment platform.</li>
+                <li><a href="https://github.com/talhabektas/greenlegacy" target="_blank"><span class="title">YesilMiras <i class="fas fa-link"></i></span></a>: IoT, Blockchain, Go, Typescript, MySQL. Fractional real estate investment platform.</li>
                 <li><a href="https://github.com/talhabektas/EarthquakeRiskAnalyzerMachine" target="_blank"><span class="title">AI-Based Resilience Analysis for Buildings <i class="fas fa-link"></i></span></a>: Tubitak 2209. ML-based earthquake damage prediction.</li>
-                <li><a href="https://github.com/talhabektas/toyotaproject" target="_blank"><span class="title">Real-Time Financial Data Project <i class="fas fa-link"></i></span></a>: Real-time financial data processing and alerting.</li>
-                <li><a href="https://github.com/talhabektas/brain-tumour-training-model" target="_blank"><span class="title">Brain Tumor Classification <i class="fas fa-link"></i></span></a>: CNN vs VGG16 for MRI classification.</li>
-                <li><a href="https://github.com/talhabektas/expenseTrack" target="_blank"><span class="title">Real-Time Expense Tracking System <i class="fas fa-link"></i></span></a>: Scalable expense tracking.</li>
-                <li><a href="https://www.linkedin.com/pulse/aws-iot-based-warehouse-monitoring-system-mehmet-talha-bekta%C5%9F-gidrf/" target="_blank"><span class="title">AWS IoT Warehouse Monitoring <i class="fas fa-link"></i></span></a>: Real-time warehouse condition monitoring.</li>
-                <li><a href="https://github.com/talhabektas/kubernetesJenkins.git" target="_blank"><span class="title">CI-CD project with Jenkins <i class="fas fa-link"></i></span></a>: Real-time warehouse condition monitoring.</li>
-                <li><a href="https://github.com/talhabektas/newgoblog" target="_blank"><span class="title">FootRap <i class="fas fa-link"></i></span></a>: Multi-user football blog with Spotify/Twitter integrations.</li>
-                <li><a href="https://github.com/talhabektas/DropShowing" target="_blank"><span class="title">Music Drop Analyzer <i class="fas fa-link"></i></span></a>: Real-time music drop detection.</li>
-                <li><a href="https://github.com/berkaycekmez/DormitoryManagementSystem" target="_blank"><span class="title">Dormitory Management System <i class="fas fa-link"></i></span></a>: Award-winning hackathon project.</li>
+                <li><a href="https://github.com/talhabektas/toyotaproject" target="_blank"><span class="title">Real-Time Financial Data Project <i class="fas fa-link"></i></span></a>: Java, Kafka, PostgreSQL, Redis. Real-time financial data processing and alerting.</li>
+                <li><a href="https://github.com/talhabektas/brain-tumour-training-model" target="_blank"><span class="title">Brain Tumor Classification <i class="fas fa-link"></i></span></a>: Python, Tensorflow, Numpy. CNN vs VGG16 for MRI classification.</li>
+                <li><a href="https://github.com/talhabektas/expenseTrack" target="_blank"><span class="title">Real-Time Expense Tracking System <i class="fas fa-link"></i></span></a>: Java, Spring Boot, Kafka, Spark, AWS. Scalable expense tracking.</li>
+                <li><a href="https://www.linkedin.com/pulse/aws-iot-based-warehouse-monitoring-system-mehmet-talha-bekta%C5%9F-gidrf/" target="_blank"><span class="title">AWS IoT Warehouse Monitoring <i class="fas fa-link"></i></span></a>: AWS S3, Lambda, IoT. Real-time warehouse condition monitoring.</li>
+                <li><a href="https://github.com/talhabektas/newgoblog" target="_blank"><span class="title">FootRap <i class="fas fa-link"></i></span></a>: Go, React, MySQL. Multi-user football blog with Spotify/Twitter integrations.</li>
+                <li><a href="https://github.com/talhabektas/DropShowing" target="_blank"><span class="title">Music Drop Analyzer <i class="fas fa-link"></i></span></a>: Python, Librosa. Real-time music drop detection.</li>
+                <li><a href="https://github.com/berkaycekmez/DormitoryManagementSystem" target="_blank"><span class="title">Dormitory Management System <i class="fas fa-link"></i></span></a>: ASP.NET Core, MSSQL. Award-winning hackathon project.</li>
+                <li><a href="https://github.com/talhabektas/event" target="_blank"><span class="title">Event Management System <i class="fas fa-link"></i></span></a>: Modern, tam-zamanlı etkinlik yönetim platformu. Gerçek zamanlı sohbet, arkadaşlık sistemi ve akıllı öneriler ile donatılmış.</li>
+                <li><a href="https://github.com/talhabektas/smartdesk" target="_blank"><span class="title">SmartDesk <i class="fas fa-link"></i></span></a>: Şirketler ve departmanlar için gelişmiş ticket yönetimi, rol tabanlı erişim, Spring Boot ve React tabanlı modern destek platformu.</li>
             </ul>
         `,
         'skills': `
