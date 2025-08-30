@@ -71,9 +71,16 @@ document.addEventListener('DOMContentLoaded', () => {
             <p>Bursa/Sakarya, Türkiye</p>
         `,
         'summary': `
-            <p>Aspiring software engineer with a strong foundation in full-stack web development, big data technologies and cloud services. Committed to continuous learning and building impactful, production-grade applications.</p>
+            <p>Aspiring software engineer with a strong foundation in full-stack web development, big data technologies, cloud services, and AI-powered development tools. Experienced with N8N workflow automation, MongoDB database management, and modern AI coding assistants like Claude Code and Cursor. Committed to continuous learning and building impactful, production-grade applications.</p>
         `,
         'experience': `
+            <p><span class="title">Software Engineer</span> @ Oyak Mining Metallurgy (Erdemir)</p>
+            <p class="meta">07/2025 - 08/2028 | İskenderun, Türkiye</p>
+            <ul>
+                <li>- Developed a comprehensive Customer Relationship Management (CRM) system at Oyak Maden Metallurgy (Erdemir), featuring role-based access control and real-time communication.</li>
+                <li>- I gained in-depth experience in enterprise software development, system architecture, data security, and user-centered design principles. I developed significant skills particularly in performance optimization and user experience design for large-scale systems.</li>
+            </ul>
+            
             <p><span class="title">Intern Full Stack Developer</span> @ Elsa Yazılım</p>
             <p class="meta">06/2024 - 09/2024 | Bursa, Türkiye</p>
             <ul>
@@ -92,8 +99,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 <li><a href="https://github.com/talhabektas/newgoblog" target="_blank"><span class="title">FootRap <i class="fas fa-link"></i></span></a>: Go, React, MySQL. Multi-user football blog with Spotify/Twitter integrations.</li>
                 <li><a href="https://github.com/talhabektas/DropShowing" target="_blank"><span class="title">Music Drop Analyzer <i class="fas fa-link"></i></span></a>: Python, Librosa. Real-time music drop detection.</li>
                 <li><a href="https://github.com/berkaycekmez/DormitoryManagementSystem" target="_blank"><span class="title">Dormitory Management System <i class="fas fa-link"></i></span></a>: ASP.NET Core, MSSQL. Award-winning hackathon project.</li>
-                <li><a href="https://github.com/talhabektas/event" target="_blank"><span class="title">Event Management System <i class="fas fa-link"></i></span></a>: Modern, tam-zamanlı etkinlik yönetim platformu. Gerçek zamanlı sohbet, arkadaşlık sistemi ve akıllı öneriler ile donatılmış.</li>
-                <li><a href="https://github.com/talhabektas/smartdesk" target="_blank"><span class="title">SmartDesk <i class="fas fa-link"></i></span></a>: Şirketler ve departmanlar için gelişmiş ticket yönetimi, rol tabanlı erişim, Spring Boot ve React tabanlı modern destek platformu.</li>
+                <li><a href="https://github.com/talhabektas/event" target="_blank"><span class="title">Event Management System <i class="fas fa-link"></i></span></a>: A modern, real-time event management platform equipped with live chat, friends system, and intelligent recommendations.</li>
+                <li><a href="https://github.com/talhabektas/smartdesk" target="_blank"><span class="title">SmartDesk <i class="fas fa-link"></i></span></a>: A comprehensive Customer Relationship Management (CRM) system built with Spring Boot and React, designed for modern businesses to manage customers, tickets, companies, and user interactions efficiently.</li>
+                <li><a href="https://polatlegal.com/" target="_blank"><span class="title">Polat Legal <i class="fas fa-link"></i></span></a>: Modern law firm website with responsive design and professional legal services presentation.</li>
+                <li><a href="https://github.com/talhabektas/fanSensitiveAnalys.git" target="_blank"><span class="title">FanSensitiveAnalys <i class="fas fa-link"></i></span></a>: AI-powered sentiment analysis platform for Turkish football fans using BERT and Groq AI models to analyze social media comments from Reddit and YouTube in real-time. Built with N8N workflow automation, MongoDB database, and modern AI development practices.</li>
             </ul>
         `,
         'skills': `
@@ -101,6 +110,8 @@ document.addEventListener('DOMContentLoaded', () => {
             <p><span class="title">Platforms:</span> AWS (S3, Lambda, IoT, EC2), Git, Jira, Confluence, Docker, MySQL, MSSQL, PostgreSQL, Kubernetes, Jenkins</p>
             <p><span class="title">Frameworks:</span> ASP.NET Core, Spring Boot, JavaFX, React.js</p>
             <p><span class="title">Big Data:</span> Kafka, Spark, Cassandra, Hadoop, Hive, HBase</p>
+            <p><span class="title">AI & Automation:</span> N8N (Workflow Automation), Claude Code (AI Coding Assistant), Cursor (AI-Powered IDE)</p>
+            <p><span class="title">Databases:</span> MongoDB (NoSQL), MySQL, MSSQL, PostgreSQL</p>
         `,
         'competitions': `
             <h3>RESEARCH & ENTREPRENEURSHIP COMPETITIONS</h3>
